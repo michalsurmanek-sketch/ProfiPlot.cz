@@ -1,0 +1,9 @@
+{
+  "name": "Profiplot – montáž plotů",
+  "short_name": "Profiplot",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f3ec",
+  "theme_color": "#142e26",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
